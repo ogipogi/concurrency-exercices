@@ -9,3 +9,11 @@ quotes := [][]string{
 		{"All that glitters is not gold.", "A rose by any other name."},
 	}
 ```
+
+Expected Output:
+```
+Writer 1: All that glitters is not gold.
+Writer 1: A rose by any other name.
+Writer 0: To be or not to be.
+Writer 0: The pen is mightier than the sword.
+```
